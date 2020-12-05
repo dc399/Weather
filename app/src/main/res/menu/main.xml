@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/yesterday"
+        android:title="昨日天气"/>
+    <item android:id="@+id/today"
+        android:title="今日天气"/>
+    <item android:id="@+id/forecast1"
+        android:title="明日天气"/>
+    <item android:id="@+id/forecast2"
+        android:title="未来两日天气"/>
+    <item android:id="@+id/forecast3"
+        android:title="未来三日天气"/>
+    <item android:id="@+id/forecast4"
+        android:title="未来四日天气"/>
+    <item android:id="@+id/cancel_concern"
+        android:title="取消关注"/>
+</menu>
